@@ -14,7 +14,7 @@ public class SudokuVerifierTest {
 	@Test
 	public void testVerify_1() {
 		SudokuVerifier sv = new SudokuVerifier();
-		
+		assertNotNull(sv);
 	}
 	
 }
