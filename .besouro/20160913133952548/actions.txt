@@ -14,3 +14,4 @@ UnitTestCaseAction 1473763315588 SudokuVerifierTest.java FAIL
 UnitTestSessionAction 1473763315589 SudokuVerifierTest.java FAIL
 RefactoringAction 1473763324551 SudokuVerifierTest.java RENAME testVerify()=>void testVerify_0() METHOD
 EditAction 1473763368954 SudokuVerifierTest.java 623 2 4 1
+EditAction 1473763392220 SudokuVerifierTest.java 651 2 5 2
