@@ -5,3 +5,4 @@ RefactoringAction 1473763219116 SudokuVerifierTest.java RENAME testVerify()/2=>v
 RefactoringAction 1473763220140 SudokuVerifierTest.java RENAME testVerify_()=>void testVerify_1() METHOD
 EditAction 1473763239751 SudokuVerifierTest.java 478 2 2 0
 EditAction 1473763249884 SudokuVerifierTest.java 496 2 3 1
+EditAction 1473763253982 SudokuVerifier.java 165 1 1 0
