@@ -10,7 +10,7 @@ public class SudokuVerifierTest {
 	@Test
 	public void testVerify_0() {
 		SudokuVerifier sv = new SudokuVerifier();
-		int result = sv.verify("417369825632158947958724316825437169791586432346912758289643571573291684164875293");
+		int result = sv.verify("41736982563215894795872431682543716979158643234691275828964357157329168416487529");
 		assertEquals(-1, result);
 	}
 	@Test
