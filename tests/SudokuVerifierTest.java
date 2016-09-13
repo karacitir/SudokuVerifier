@@ -11,5 +11,10 @@ public class SudokuVerifierTest {
 	public void testVerify() {
 		fail("Not yet implemented");
 	}
-
+	@Test
+	public void testVerify_1() {
+		SudokuVerifier sv = new SudokuVerifier();
+		
+	}
+	
 }
