@@ -16,5 +16,6 @@ public class SudokuVerifierTest {
 		SudokuVerifier sv = new SudokuVerifier();
 		assertNotNull(sv);
 	}
+
 	
 }
